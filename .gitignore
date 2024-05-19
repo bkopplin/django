@@ -6,6 +6,7 @@
 *.pot
 *.py[co]
 .tox/
+.vscode/
 __pycache__
 MANIFEST
 dist/
@@ -17,3 +18,4 @@ tests/.coverage*
 build/
 tests/report/
 tests/screenshots/
+requirements.txt
